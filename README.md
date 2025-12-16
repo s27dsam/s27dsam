@@ -6,7 +6,6 @@ My expertise includes:
 * **Data Visualization:** Matplotlib, Seaborn, Tableau/Power BI 
 * **Machine Learning:** Predictive Modeling, Classification, Clustering, Time Series Analysis
 
-connect with me at [s27dsam@gmail.com]
 
 
 
